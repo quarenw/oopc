@@ -1,2 +1,4 @@
 # oopc
-Object orientated programming example in C
+Object oriented programming example in C
+
+From the book Object-oriented Programming in C++ (C) 1991
